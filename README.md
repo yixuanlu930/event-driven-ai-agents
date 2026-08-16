@@ -388,7 +388,7 @@ This project is distributed under the license included in the repository.
 
 
 
-Spanish transalation:
+## Spanish transalation:
 
 PRÁCTICA 1 - INFRAESTRUCTURAS DE BIG DATA
 =========================================
